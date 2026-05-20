@@ -1,4 +1,4 @@
-<img src="<img src="CHÈN_LINK_GIF_VÀO_ĐÂY" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 400px;" />" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 400px;" />
+
 <img src="https://i.pinimg.com/736x/fc/bc/6f/fcbc6f99e77e63bddc59a996c0442798.jpg" width="200" />
 <img src="https://i.pinimg.com/736x/f7/4d/2d/f74d2d6c7002f7245bf3f6b02dc7b1e2.jpg" width="150" />
 - 🔭 I’m currently working on ...
