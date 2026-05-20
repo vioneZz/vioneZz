@@ -1,4 +1,6 @@
-<img src="https://i.pinimg.com/originals/c7/66/84/c76684743f66c3bad8a53b37fd713242.gif" width="400" />
+<p align="center">
+  <img src="https://i.pinimg.com/originals/c7/66/84/c76684743f66c3bad8a53b37fd713242.gif" width="400" />
+</p>
 <img src="https://i.pinimg.com/736x/fc/bc/6f/fcbc6f99e77e63bddc59a996c0442798.jpg" width="200" />
 <img src="https://i.pinimg.com/736x/f7/4d/2d/f74d2d6c7002f7245bf3f6b02dc7b1e2.jpg" width="150" />
 - 🔭 I’m currently working on ...
